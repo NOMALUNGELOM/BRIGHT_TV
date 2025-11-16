@@ -1,28 +1,73 @@
-# BRIGHTTV VIEWERSHIP ANALYSIS 
+# 🌟 BrightTV Viewership Analysis
 
-# Purpose
-This project analyzes BrightTV’s user profiles and viewing sessions to uncover insights that will help the CEO and the Customer Value Management (CVM) team grow the platform’s subscription base and increase content consumption.
+## 🎯 Purpose
+Analyze BrightTV user profiles and viewing sessions to drive subscriptions, engagement, and content optimisation for strategic decision-making.
 
-# Project Overview
-The BrightTV dataset includes:
-1. User Profile Data – demographic and account information
-2. Viewership Data – detailed session-level consumption records
+## 📝 Project Overview
+**Dataset:**
+- **User Profiles:** Demographics & account info  
+- **Viewership:** Session-level data (timestamps, duration, channels)  
 
-As an Analyst, my role was to clean the data, convert timestamps from UTC to South African time, and extract insights on viewing behavior, peak usage periods, and content performance.
-The analysis supports strategic decision making around user growth and content optimization.
+**Role:**
+- Cleaned & transformed data (UTC → South African time)  
+- SQL-based insight extraction  
+- Dashboard creation & recommendation generation  
 
-# Objectives
-1. Identify overall user and usage trends
-2. Determine factors that influence consumption
-3. Analyze viewing behavior by time, day, and content category
-4. Identify low-consumption periods and recommend content to boost engagement
-5. Recommend user-growth initiatives aligned with BrightTV’s business goals
-6. Support insights using SQL analysis and visual dashboards
+**Goal:** Inform user-growth initiatives, content strategy, and engagement optimisation.
 
-# Tools Used
-1. Snowflake – data cleaning, transformations, and SQL analysis
-2. Excel – pivot tables, checks, and visual summaries
-3. Miro – data flow, architecture, and insight planning
-4. PowerPoint – presentation of findings and recommendations
-5. Google Looker Studio – interactive dashboards
-6. Dashboard Link: https://lookerstudio.google.com/reporting/49f99eb6-ce3a-48b5-9b0c-3379a4843cf1
+## 📊 Key Metrics
+
+| Metric | Value | Insight |
+|--------|-------|--------|
+| 👥 Unique Users | 4,000 | High active user base |
+| ⏱ Avg. Watch Hours/User | ~2,000 | Strong per-user engagement |
+| 📈 Total Sessions | 10B | Frequent platform usage |
+| 📅 Peak Day | Saturday | Best engagement for content drops |
+| 🕒 Peak Time | Afternoon (44%) | Optimal slot for premieres & notifications |
+| 👤 Dominant Segments | Young Adults & Adults | Primary audience for sports & music |
+
+## 🎬 Top Content Preferences
+- **Sports:** ICC Cricket, Supersport (high engagement across provinces)  
+- **Music:** Channel O, Trace TV (youth-focused)  
+- **Children:** Boomerang, Cartoon Network  
+- **Seniors:** Africa Magic, traditional dramas  
+
+## 🚀 Recommendations
+### 1️⃣ Grow Under-Engaged Groups
+- Target: Children, Teenagers, Seniors  
+- Content: Educational shows, youth-driven shorts, senior-friendly dramas & talk shows  
+
+### 2️⃣ Strengthen Core Categories
+- Expand sports & music content: live events, highlights, playlists  
+- Regional strategy:  
+  - **Sports-first:** WC, KZN, Gauteng, Limpopo, Mpumalanga  
+  - **Music-first:** North West  
+
+### 3️⃣ Optimise Scheduling
+- Premieres on **Fridays & Saturdays**  
+- Schedule exclusive releases **Afternoon & Evening**  
+
+### 4️⃣ Personalised Discovery
+- AI recommendations based on **age, province, and viewing patterns**  
+- Push alerts for premieres, highlights, trending content  
+
+### 5️⃣ Short & Medium Form Content
+- Align with session lengths (0–3 hrs, 3–6 hrs)  
+- Promote highlight clips, bite-sized episodes, and recaps  
+
+### 6️⃣ Close Demographic Engagement Gaps
+- Inclusive content for Women, Coloured, White, Indian/Asian users  
+- Lifestyle, culture, drama, news, and women-focused campaigns
+- 
+## 📈 Impact
+- Increased watch hours, retention, and engagement  
+- Targeted underserved audiences & provinces  
+- Maximised peak-time usage with AI-driven personalisation  
+- Strengthened high-demand sports & music categories
+  
+## 📊 Interactive Dashboard
+[BrightTV Looker Studio Dashboard](https://lookerstudio.google.com/reporting/49f99eb6-ce3a-48b5-9b0c-3379a4843cf1)
+
+
+
+
