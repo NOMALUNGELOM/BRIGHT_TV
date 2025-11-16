@@ -58,7 +58,7 @@ Analyze BrightTV user profiles and viewing sessions to drive subscriptions, enga
 ### 6️.  Close Demographic Engagement Gaps
 - Inclusive content for Women, Coloured, White, Indian/Asian users  
 - Lifestyle, culture, drama, news, and women-focused campaigns
-- 
+  
 ##  Impact
 - Increased watch hours, retention, and engagement  
 - Targeted underserved audiences & provinces  
