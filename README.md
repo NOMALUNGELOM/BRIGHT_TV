@@ -20,7 +20,7 @@ Analyze BrightTV user profiles and viewing sessions to drive subscriptions, enga
 | Metric | Value | Insight |
 |--------|-------|--------|
 |  Unique Users | 4,000 | High active user base |
-| Avg. Watch Hours/User | ~2,000 | Strong per-user engagement |
+| Avg. Watch Hours/User | 2,000 | Strong per-user engagement |
 | Total Sessions | 10B | Frequent platform usage |
 | Peak Day | Saturday | Best engagement for content drops |
 | Peak Time | Afternoon (44%) | Optimal slot for premieres & notifications |
